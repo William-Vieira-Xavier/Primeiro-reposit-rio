@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Dec 2022 19:04:01 at http://drglacus.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://drglacus.com.br/ -O1 "C:\My Web Sites\drglacis" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:02	Warning: 	Note: due to drglacus.com.br remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin/, /wusage (see in the options to disable this)
+19:05:36	Warning: 	Retry after error -4 (Incorrect length (131910 Bytes, 255371 expected)) at link drglacus.com.br/images/index/dentist/002.png (from drglacus.com.br/)
+19:05:36	Warning: 	Retry after error -4 (Incorrect length (137485 Bytes, 259140 expected)) at link drglacus.com.br/images/index/dentist/003.png (from drglacus.com.br/)
+19:05:36	Warning: 	Retry after error -4 (Incorrect length (130249 Bytes, 256519 expected)) at link drglacus.com.br/images/index/dentist/004.png (from drglacus.com.br/)
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+19:05:43	Warning: 	File not parsed, looks like binary: drglacus.com.br/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+19:05:44	Warning: 	File not parsed, looks like binary: drglacus.com.br/fonts/font-awesome/fonts/Philosopher-Regular.ttf
+19:05:53	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/plugins/slider-revolution/fonts/revicons/revicons.woff?5510888
+19:05:53	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/plugins/slider-revolution/fonts/revicons/revicons.ttf?5510888
+19:05:53	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/plugins/slider-revolution/css/openhand.cur
+19:05:53	Warning: 	File not parsed, looks like binary: drglacus.com.br/js/plugins/slider-revolution/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 65 links scanned, 61 files written (4476995 bytes overall) [4497381 bytes received at 40155 bytes/sec], 2.2 requests per connection
+(No errors, 15 warnings, 0 messages)
